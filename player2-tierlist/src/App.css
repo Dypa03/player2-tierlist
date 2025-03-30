@@ -1,0 +1,110 @@
+/* Importa un font moderno */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #1a1a1a; /* Sfondo scuro per effetto elegante */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* HEADER */
+header {
+    background: #111;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+header h1 {
+    font-size: 2.2rem;
+    color: #00aaff; /* Blu elettrico per evidenziare */
+}
+
+header p {
+    font-size: 1rem;
+    color: #ddd;
+}
+
+/* FOOTER */
+footer {
+    background: #111;
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    color: #aaa;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+/* LISTA PERSONAGGI */
+.character-entry {
+    background: #222;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 600px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.character-entry:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 6px 15px rgba(0, 0, 255, 0.5);
+}
+
+.character-entry h2 {
+    font-size: 1.8rem;
+    color: #00aaff;
+    margin-bottom: 10px;
+}
+
+.videogameReference {
+    font-size: 1.1rem;
+    color: #bbb;
+    font-style: italic;
+}
+
+.character-entry img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 15px 0;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.description {
+    font-size: 1rem;
+    color: #ddd;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.tier {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #ffcc00; /* Oro per il ranking */
+    margin-top: 10px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    .character-entry {
+        max-width: 90%;
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+}
