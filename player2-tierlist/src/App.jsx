@@ -8,8 +8,11 @@ import './App.css'
 
 
 function App() {
+  
+  let sortedCharacters = [...charactersData].sort((a, b) => a.rank - b.rank).reverse()
 
-  const characters = charactersData.map(entry =>
+
+  const characters = sortedCharacters.map(entry =>
     <Entry
       key={entry.id}
       {...entry}
@@ -17,8 +20,6 @@ function App() {
   )
 
   return (
-    
-
     <>
       <Header />
       {characters}

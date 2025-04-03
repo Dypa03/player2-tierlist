@@ -1,4 +1,5 @@
 [
+    
     {
         "id": 1,
         "rank": 1,
@@ -9,7 +10,9 @@
             "alt": "Crescent"
         },
         "tier": "Z",
-        "description": "We finally arrived to the end of our list. I can still remember the first time I played Pokemon Rejuvenation, and that's when I met her. </br> I know the 99.99999999999% of people reading this tier don't even know who Crescent is, but I don't care. I love her so much. </br></br>Ok but why do I like her? First and foremost she is CRAZY. She is kind of a psycopath, driven both by rage against Team Xen(and the world probably) and by her love for the MC. With her gothic look, her strength(she's really OP) and that scary scary scary Gothitelle, I was always in alert mode whenever she was around at first. She also has a badass theme and SHE'S NOT A USELESS BABYCRY LIKE MELIA! And then, the cherry on top: her backstory... poor little girl didn't deserve any of that. I won't go in details, but... yeah(if you like Pokemon play Rejuvenation!). </br></br>So, Crescent is my favorite character in the game. She is a badass, she is a psycho, she is the GOAT."
+        "descriptionIntro": "We finally arrived to the end of our list. I can still remember the first time I played Pokemon Rejuvenation, and that's when I met her. I know the 99.99999999999% of people reading this tier don't even know who Crescent is, but I don't care. ",
+        "description": "Ok but why do I love her? First and foremost she is CRAZY. She is kind of a psycopath, driven both by rage against Team Xen (and the world probably) and by her love for the MC. With her gothic look(do I have something for goth mommies? idk), her strength (she's really OP) and that scary scary scary Gothitelle, I was always in alert mode whenever she was around at first, she gave me (almost) more dread than the EMMIs on Metroid(almost). She also has a badass theme and SHE'S NOT A USELESS BABYCRY LIKE MELIA! \nAnd then, the cherry on top: her backstory... poor little girl didn't deserve any of that. I won't go in details, but... yeah (if you like Pokemon, play Rejuvenation!).",
+        "descriptionSummary": "Crescent is my favorite character in the game. She is a badass, she is a psycho, she is the GOAT."
     },
     {
         "id": 2,
@@ -21,6 +24,52 @@
             "alt": "Sumire"
         },
         "tier": "Z",
-        "description": "Well... this is heavy to digest. Sumire is a character who I empathize with a lot. I can relate to her in many ways, and I think that's why I like her so much. </br></br>But let's go with order. We discover her tragic backstory in the last palace of the game. That video... that damned video was... heartbreaking. </br> The first thing we understand about her is that she feels like a failure, and most importantly, she feels surpassed by her sister, a useless version of Kasumi. <<Kasumi is the one the people want...>>  </br> If you have an older sibling, you probably had these same thoughts and feelings at some point, probably as a teenager(just like Sumire), and some point you understood that you are your own person, and went over it. </br> Now, imagine you have not yet understood that, and you are in a world where you are constantly compared to your sister, who is the best at everything. That's what happened to Sumire. </br> But then, she causes the accident that got her sister dead, and she is left with a huge burden. </br> She is not only a failure, but she also killed her sister. If that happened to me, I would just have k****d myself tbh</br></br>I felt like her for most of my life and that's why I love her so much. Also seeing her gorw and accept herself in the game helped me doing the same. </br></br>She is tecnically the number 1 on this list, but I want to finish on a high note, so I put her here."
+        "descriptionIntro": "Well... this is heavy to digest. Sumire is a character who I empathize with a lot. I can relate to her in many ways, and I think that's why I like her so much.",
+        "description": "But let's go in order. We discover her tragic backstory in the last palace of the game. That video... that damned video was... heartbreaking. \n The first thing we understand about her is that she feels like a failure, and most importantly, she feels surpassed by her sister, a useless version of Kasumi. <<Kasumi is the one the people want...>> \n If you have an older sibling, you probably had these same thoughts and feelings at some point, probably as a teenager (just like Sumire), and at some point, you understood that you are your own person, and went over it. Now, imagine you have not yet understood that, and you are in a world where you are constantly compared to your sister, who is the best at everything. That's what happened to Sumire. \n But then, she causes the accident that got her sister dead, and she is left with a huge burden. \n She is not only a failure, but she also killed her sister. If that happened to me, I would just have k****d myself tbh.",
+        "descriptionSummary": "I felt like her for most of my life and that's why I love her so much. Also, seeing her grow and accept herself in the game helped me doing the same."
+    },  
+    
+    {
+        "id": 3,
+        "rank": 3,
+        "characterName": "Morgana",
+        "videogameReference": "League of Legends",
+        "image": {
+            "src": "/images/morgana2.jpg",
+            "alt": "Morgana"
+        },
+        "tier": "Z",
+        "descriptionIntro": "Second, and last, LoL character on this list. Let's start by saying that I was a Morgana main. If they didn't nerf zhonya so hard for her, I would still play League probably(so I guess it's better this way :D).",
+        "description": "I love Morgana for many reasons, first of all, her design. A fallen angel. If that's not cool, I don't know what is. Also the colors are so beautiful and she is too(those cursed eyes...just wow) \n But the real reasons I love her so much are her lore/personality and her voice acting(in italian is soooooo good). The things she says are so deep and meaningful, and I can relate to her a lot. \n She is a character who has been through a lot, and she is still standing. She chose a true darkness instead of a fake light, and that inspired me a lot",
+        "descriptionSummary": "So, cool character, with a cool design, a cool voice and a cool story. Only one rank possible. "
+    },
+    {
+        "id": 4,
+        "rank": 4,
+        "characterName": "Caitlyn",
+        "videogameReference": "League of Legends",
+        "image": {
+            "src": "/images/caitlyn.jpg",
+            "alt": "Caitlyn"
+        },
+        "tier": "Z",
+        "descriptionIntro": "I know, I know. In LoL there are not \"Main\" characters, but I loved Arcane so much that I had to put Caitlyn here. I love her so much(I have a fetish for Nazi girls ig).",
+        "description": "Caitlyn is a really kind soul, she really wanted to help the people of Zaun, and she has such a sense of justice. \n I was very happy in Arcane S2 Act 1, when she gets consumed by rage, she's the perfect embracement of how trauma afflicts people, and also how wars actually are. <<Hating you, I hated myself>> this quote really hit me a lot, it made me think about how I feel about a personal thing. \n Not to mention that she is a genius, perfect aim, hot as f**k, and she's so cool.",
+        "descriptionSummary": "My favorite character from Arcane, we are waiting for the extensive version of the prison scene with Vi."
+    },
+    {
+        "id": 5,
+        "rank": 5,
+        "characterName": "Urbosa",
+        "videogameReference": "The Legend of Zelda: Breath of the Wild",
+        "image": {
+            "src": "/images/urbosa.png",
+            "alt": "Urbosa"
+        },
+        "tier": "S",
+        "descriptionIntro": "\"La grande Urbosa, la matriarca delle Gerudo\". For once I'll be short",
+        "description": "A muscle mommy that shocks the enemies with the snap of her fingers... what else do you want? \n Also how cool are both the OSTs of Gerudo Town and Vah Naboris battle?",
+        "descriptionSummary": "Best pilot by far."
     }
+
 ]
